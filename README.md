@@ -7,4 +7,4 @@ There are some block games, like:
 * Grass and rabbit
 * Tetris
 
-and I wrote some note in there [>>>https://github.com/XianwuLin/xianwulin.github.com/issues/4](https://github.com/XianwuLin/xianwulin.github.com/issues/4).
+and I wrote some note in there >>> [https://github.com/XianwuLin/xianwulin.github.com/issues/4](https://github.com/XianwuLin/xianwulin.github.com/issues/4).
